@@ -1,0 +1,1 @@
+web: gunicorn university.university.server:app
